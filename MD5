@@ -1,0 +1,11 @@
+2bf57ca841d5efd6dcf60a1cab6627a5 *DESCRIPTION
+e1a0f438a70a45615071560a0fb7da02 *NAMESPACE
+ba6fa973001f57ad93db15faa5dacde7 *NEWS.md
+11767475a0f5926c9e789d3befa90fe4 *R/FastIhtPrior.R
+e2580e107cf48925ff10e4f0c938e143 *R/Prior.R
+a1c0b91750c3784039bd13de8c9959e7 *README.md
+2a5c5551dfe15f33db6ca30f9ec2723d *man/createFastIhtPrior.Rd
+55640270a54dd78139006b3bdd8f4097 *man/createIhtPrior.Rd
+3b0afa8585f60092ab9cfd5ede9f58ef *tests/testthat.R
+23dcbfd9c6de111bac1bd1f7311e9b17 *tests/testthat/test-BestKthSubset.R
+f254c1049b9e08bf26550c0fb579f6da *tests/testthat/test-Penalty.R
