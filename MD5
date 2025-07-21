@@ -1,11 +1,11 @@
-2bf57ca841d5efd6dcf60a1cab6627a5 *DESCRIPTION
+abd102732f0b4541769ec1a2f853d2f3 *DESCRIPTION
 e1a0f438a70a45615071560a0fb7da02 *NAMESPACE
 ba6fa973001f57ad93db15faa5dacde7 *NEWS.md
-11767475a0f5926c9e789d3befa90fe4 *R/FastIhtPrior.R
-e2580e107cf48925ff10e4f0c938e143 *R/Prior.R
-a1c0b91750c3784039bd13de8c9959e7 *README.md
-2a5c5551dfe15f33db6ca30f9ec2723d *man/createFastIhtPrior.Rd
-55640270a54dd78139006b3bdd8f4097 *man/createIhtPrior.Rd
+028fb9af778a3717775a9f304123a62a *R/FastIhtPrior.R
+5894ad98ef2ff13bc97a7cc041d70e98 *R/Prior.R
+78d05e28b2c5cd072206ad60e0260379 *README.md
+5cf97fe6a47b40eea57b92e952ef4012 *man/createFastIhtPrior.Rd
+82ef64301e9e37acc0e028f9ce13b7ea *man/createIhtPrior.Rd
 3b0afa8585f60092ab9cfd5ede9f58ef *tests/testthat.R
 23dcbfd9c6de111bac1bd1f7311e9b17 *tests/testthat/test-BestKthSubset.R
 f254c1049b9e08bf26550c0fb579f6da *tests/testthat/test-Penalty.R
